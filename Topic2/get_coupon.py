@@ -16,20 +16,20 @@ data = ['0','1','2','3','4',
         'z']
 def get_coupon():
     length = len(data)
-    couponlist = []
+    coupons = ''
     for count in range(200):
         coupon = ''
         for i in range(10):
             temp = random.randint(0,length-1)
             coupon += data[temp]
-        couponlist.append('优惠码%d:%s\n' %(count+1,coupon))
+        coupons += 'no.%d:%s\n' %(count+1,coupon)
         
-    return couponlist
+    return coupons
 
 if __name__ == '__main__':
-    couponlist = get_coupon()
+    coupons = get_coupon()
     with open('coupon.txt','w') as f:
-        f.writelines(couponlist)
+        f.write(coupons)
         
 '''
 import string
