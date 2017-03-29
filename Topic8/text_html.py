@@ -8,7 +8,10 @@ Created on Tue Mar 28 20:46:42 2017
 from html.parser import HTMLParser
 
 class MyHTMLParser(HTMLParser):
-    is_text = False
+    def __init__(self):
+        super().__init__()
+        self.is_text = False
+        
     def handle_starttag(self, tag, attrs):
         if tag =='div':
             self.is_text = True
