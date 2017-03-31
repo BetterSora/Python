@@ -19,3 +19,5 @@ Python 练习册，每天一个小程序
 第9题：一个HTML文件，找出里面的链接。
 
 第10题：使用 Python 生成类似于下图中的字母验证码图片
+
+第11题： 敏感词文本文件 filtered_words.txt，里面的内容为以下内容，当用户输入敏感词语时，则打印出 Freedom，否则打印出 Human Rights。
