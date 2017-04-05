@@ -36,4 +36,4 @@ Python 练习册，每天一个小程序
 
 请将上述内容写到 student.xls 文件中，如下图所示：
 
-![image](https://github.com/BetterSora/Python/tree/master/img/1.jpg)
+![image](https://github.com/BetterSora/Python/blob/master/img/1.jpg);
