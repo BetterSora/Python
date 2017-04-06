@@ -37,3 +37,15 @@ Python 练习册，每天一个小程序
 请将上述内容写到 student.xls 文件中，如下图所示：
 
 ![image](https://github.com/BetterSora/Python/blob/master/img/1.jpg);
+
+第15题： 纯文本文件 city.txt为城市信息, 里面的内容（包括花括号）如下所示：
+
+{
+    "1" : "上海",
+    "2" : "北京",
+    "3" : "成都"
+}
+
+请将上述内容写到 city.xls 文件中，如下图所示：
+
+![image](https://github.com/BetterSora/Python/blob/master/img/2.png)
