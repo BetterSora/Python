@@ -57,3 +57,19 @@ Python 练习册，每天一个小程序
 请将上述内容写到 city.xls 文件中，如下图所示：
 
 ![image](https://github.com/BetterSora/Python/blob/master/img/2.png)
+
+第16题： 纯文本文件 numbers.txt, 里面的内容（包括方括号）如下所示：
+
+[
+
+	[1, 82, 65535],
+	
+	[20, 90, 13],
+	
+	[26, 809, 1024]
+	
+]
+
+请将上述内容写到 numbers.xls 文件中，如下图所示：
+
+![iamge](https://github.com/BetterSora/Python/blob/master/img/3.png)
