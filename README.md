@@ -78,19 +78,19 @@ Python 练习册，每天一个小程序
 
 下所示：
 
-<?xml version="1.0" encoding="UTF-8"?>
+\<?xml version="1.0" encoding="UTF-8"?>
 
-<root>
+\<root>
 
-<students>
+\<students>
 
-<!--
+\<!--
 
 	学生信息表
 	
 	"id" : [名字, 数学, 语文, 英文]
 	
--->
+\-->
 
 {
 
@@ -102,6 +102,6 @@ Python 练习册，每天一个小程序
 	
 }
 
-</students>
+\</students>
 
-</root>
+\</root>
