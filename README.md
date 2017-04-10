@@ -92,3 +92,19 @@ Python 练习册，每天一个小程序
 }<br>
 \</students><br>
 \</root><br>
+
+第18题： 将 第 0015 题中的 city.xls 文件中的内容写到 city.xml 文件中，如下所示：
+
+/<?xmlversion="1.0" encoding="UTF-8"?><br>
+/<root><br>
+/<citys><br>
+/<!--<br>
+　　城市信息<br>
+/--><br>
+{<br>
+　　"1" : "上海",<br>
+　　"2" : "北京",<br>
+　　"3" : "成都"<br>
+}<br>
+/</citys><br>
+/</root><br>
